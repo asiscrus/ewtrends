@@ -42754,6 +42754,10 @@ a.u-link.u-text-hover-grey-90:hover {
     min-height: 241px;
   }
 
+  .u-header .u-text-2 {
+    margin-top: -25px;
+  }
+
   .u-header .u-layout-cell-1 {
     min-height: 100px;
   }
@@ -42779,10 +42783,6 @@ a.u-link.u-text-hover-grey-90:hover {
 @media (max-width: 767px) {
   .u-header .u-text-1 {
     font-size: 1rem;
-  }
-
-  .u-header .u-text-2 {
-    margin-top: -25px;
   }
 
   .u-header .u-image-1 {
