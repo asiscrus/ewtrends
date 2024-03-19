@@ -25,6 +25,11 @@
   height: auto;
   min-height: 207px;
   margin-top: 34px;
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-custom-html-5 {
+  margin-top: 30px;
   margin-bottom: 60px;
 }
 
