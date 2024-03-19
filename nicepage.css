@@ -42769,6 +42769,7 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-header .u-text-5 {
+    margin-top: -79px;
     margin-right: 0;
     margin-left: 417px;
   }
@@ -42839,6 +42840,10 @@ a.u-link.u-text-hover-grey-90:hover {
   .u-header .u-text-4 {
     margin-right: 0;
     margin-left: 0;
+  }
+
+  .u-header .u-btn-2 {
+    margin-top: -64px;
   }
 
   .u-header .u-text-5 {
