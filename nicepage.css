@@ -42644,18 +42644,23 @@ a.u-link.u-text-hover-grey-90:hover {
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 2px;
-  margin: -80px 23px 0 auto;
+  margin: -85px 23px 0 auto;
   padding: 0 22px 2px 20px;
 }
 
 .u-header .u-image-2 {
   width: 136px;
   height: 29px;
-  margin: -29px 152px 0 auto;
+  margin: -32px 152px 0 auto;
+}
+
+.u-header .u-text-5 {
+  font-size: 0.75rem;
+  margin: 22px 136px 0 677px;
 }
 
 .u-header .u-menu-3 {
-  margin: 18px 23px 0 auto;
+  margin: -19px 23px 0 auto;
 }
 
 .u-header .u-nav-5 {
@@ -42669,16 +42674,11 @@ a.u-link.u-text-hover-grey-90:hover {
   font-size: 1.25rem;
 }
 
-.u-header .u-text-5 {
-  font-size: 0.75rem;
-  margin: -22px 136px 0 677px;
-}
-
 .u-header .u-text-6 {
   background-image: none;
   font-size: 1.5rem;
   text-decoration: underline !important;
-  margin: 23px 1px 0;
+  margin: 24px 1px 0;
 }
 @media (max-width: 1199px) {
   .u-header .u-text-1 {
@@ -42733,28 +42733,24 @@ a.u-link.u-text-hover-grey-90:hover {
     margin-right: 152px;
   }
 
-  .u-header .u-menu-3 {
-    margin-top: 80px;
-    margin-right: 23px;
-  }
-
   .u-header .u-text-5 {
-    margin-top: -79px;
+    margin-top: 23px;
     margin-right: 26px;
     margin-left: 567px;
   }
 
+  .u-header .u-menu-3 {
+    margin-top: 38px;
+    margin-right: 23px;
+  }
+
   .u-header .u-text-6 {
-    margin: 34px 0 -66px;
+    margin: -26px 0 -66px;
   }
 }
 @media (max-width: 991px) {
   .u-header .u-sheet-1 {
     min-height: 313px;
-  }
-
-  .u-header .u-text-2 {
-    margin-top: -26px;
   }
 
   .u-header .u-layout-cell-1 {
@@ -42765,17 +42761,14 @@ a.u-link.u-text-hover-grey-90:hover {
     margin-top: -71px;
   }
 
-  .u-header .u-menu-3 {
-    margin-top: 82px;
-  }
-
   .u-header .u-text-5 {
-    margin-top: -79px;
+    margin-top: 25px;
     margin-right: 0;
     margin-left: 413px;
   }
 
   .u-header .u-text-6 {
+    margin-top: -26px;
     margin-bottom: -64px;
   }
 }
@@ -42808,18 +42801,18 @@ a.u-link.u-text-hover-grey-90:hover {
     margin-top: -66px;
   }
 
-  .u-header .u-menu-3 {
-    margin-top: 47px;
+  .u-header .u-text-5 {
+    margin-top: 45px;
+    margin-left: 412px;
   }
 
-  .u-header .u-text-5 {
-    margin-top: -30px;
-    margin-left: 412px;
+  .u-header .u-menu-3 {
+    margin-top: -17px;
   }
 
   .u-header .u-text-6 {
     font-size: 1rem;
-    margin-top: 5px;
+    margin-top: -6px;
     margin-bottom: -19px;
   }
 }
