@@ -42753,6 +42753,10 @@ a.u-link.u-text-hover-grey-90:hover {
     min-height: 313px;
   }
 
+  .u-header .u-text-2 {
+    margin-top: -26px;
+  }
+
   .u-header .u-layout-cell-1 {
     min-height: 100px;
   }
@@ -42838,6 +42842,10 @@ a.u-link.u-text-hover-grey-90:hover {
 
   .u-header .u-text-5 {
     margin-left: 213px;
+  }
+
+  .u-header .u-text-6 {
+    margin-top: -6px;
   }
 }
  .u-footer {

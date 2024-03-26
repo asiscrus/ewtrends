@@ -90,17 +90,9 @@
   margin: 66px 37px 0 0;
 }
 
-.u-section-1 .u-text-9 {
-  text-transform: none;
-  font-weight: 700;
-  font-family: "Abhaya Libre";
-  font-size: 2.25rem;
-  margin: 46px 243px 0 269px;
-}
-
 .u-section-1 .u-table-1 {
-  width: 941px;
-  margin: 16px auto 60px;
+  margin-top: 66px;
+  margin-bottom: 60px;
 }
 
 .u-section-1 .u-table-header-1 {
@@ -165,17 +157,6 @@
     width: 721px;
     margin-right: 0;
   }
-
-  .u-section-1 .u-text-9 {
-    width: 429px;
-    margin-left: 266px;
-    margin-right: 266px;
-  }
-
-  .u-section-1 .u-table-1 {
-    width: 721px;
-    margin-left: 110px;
-  }
 }
 
 @media (max-width: 991px) {
@@ -196,11 +177,6 @@
   .u-section-1 .u-custom-html-2 {
     width: 541px;
   }
-
-  .u-section-1 .u-table-1 {
-    width: 541px;
-    margin-left: 200px;
-  }
 }
 
 @media (max-width: 767px) {
@@ -219,11 +195,6 @@
 
   .u-section-1 .u-custom-html-2 {
     width: 540px;
-  }
-
-  .u-section-1 .u-table-1 {
-    width: 540px;
-    margin-left: 201px;
   }
 }
 
@@ -244,14 +215,7 @@
     width: 340px;
   }
 
-  .u-section-1 .u-text-9 {
-    width: 340px;
-    margin-left: 301px;
-    margin-right: 301px;
-  }
-
   .u-section-1 .u-table-1 {
-    width: 340px;
-    margin-left: 301px;
+    margin-top: 140px;
   }
 }
