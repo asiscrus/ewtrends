@@ -42742,6 +42742,10 @@ a.u-link.u-text-hover-grey-90:hover {
     min-height: 313px;
   }
 
+  .u-header .u-text-2 {
+    margin-top: -26px;
+  }
+
   .u-header .u-layout-cell-1 {
     min-height: 100px;
   }
