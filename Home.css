@@ -4,7 +4,7 @@
 
 .u-section-1 .u-list-1 {
   width: 867px;
-  margin: 4px auto 0;
+  margin: 0 auto;
 }
 
 .u-section-1 .u-repeater-1 {
@@ -25,9 +25,9 @@
 }
 
 .u-section-1 .u-text-2 {
-  font-size: 0.75rem;
+  font-size: 0.875rem;
   font-style: italic;
-  margin: 18px 0 0 20px;
+  margin: 13px 0 0 20px;
 }
 
 .u-section-1 .u-container-layout-2 {
@@ -41,9 +41,9 @@
 }
 
 .u-section-1 .u-text-4 {
-  font-size: 0.75rem;
+  font-size: 0.875rem;
   font-style: italic;
-  margin: 18px 0 0 20px;
+  margin: 13px 0 0 20px;
 }
 
 .u-section-1 .u-container-layout-3 {
@@ -57,13 +57,13 @@
 }
 
 .u-section-1 .u-text-6 {
-  font-size: 0.75rem;
+  font-size: 0.875rem;
   font-style: italic;
-  margin: 18px 0 0 20px;
+  margin: 13px 0 0 20px;
 }
 
 .u-section-1 .u-container-layout-4 {
-  padding: 9px 0 8px;
+  padding: 9px 0;
 }
 
 .u-section-1 .u-text-7 {
@@ -73,15 +73,15 @@
 }
 
 .u-section-1 .u-text-8 {
-  font-size: 0.75rem;
+  font-size: 0.875rem;
   font-style: italic;
-  margin: 18px 0 0 20px;
+  margin: 13px 0 0 20px;
 }
 
 .u-section-1 .u-custom-html-1 {
   height: auto;
   min-height: 211px;
-  margin: 46px 50px 0 0;
+  margin: 50px 50px 0 0;
 }
 
 .u-section-1 .u-custom-html-2 {
