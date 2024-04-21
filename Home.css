@@ -1,5 +1,5 @@
 .u-section-1 .u-sheet-1 {
-  min-height: 1132px;
+  min-height: 945px;
 }
 
 .u-section-1 .u-list-1 {
@@ -87,18 +87,7 @@
 .u-section-1 .u-custom-html-2 {
   height: auto;
   min-height: 207px;
-  margin: 69px 37px 0 0;
-}
-
-.u-section-1 .u-table-1 {
-  width: 843px;
-  margin: 31px auto 60px;
-}
-
-.u-section-1 .u-table-header-1 {
-  background-image: none;
-  text-transform: uppercase;
-  font-weight: 900;
+  margin: 69px 37px 60px 0;
 }
 
 @media (max-width: 1199px) {
@@ -156,10 +145,6 @@
     width: 721px;
     margin-right: 0;
   }
-
-  .u-section-1 .u-table-1 {
-    width: 721px;
-  }
 }
 
 @media (max-width: 991px) {
@@ -178,10 +163,6 @@
   }
 
   .u-section-1 .u-custom-html-2 {
-    width: 541px;
-  }
-
-  .u-section-1 .u-table-1 {
     width: 541px;
   }
 }
@@ -203,10 +184,6 @@
   .u-section-1 .u-custom-html-2 {
     width: 540px;
   }
-
-  .u-section-1 .u-table-1 {
-    width: 540px;
-  }
 }
 
 @media (max-width: 575px) {
@@ -223,11 +200,6 @@
   }
 
   .u-section-1 .u-custom-html-2 {
-    width: 340px;
-  }
-
-  .u-section-1 .u-table-1 {
-    margin-top: 140px;
     width: 340px;
   }
 }
