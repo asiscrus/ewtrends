@@ -1,5 +1,5 @@
 .u-section-1 .u-sheet-1 {
-  min-height: 945px;
+  min-height: 1091px;
 }
 
 .u-section-1 .u-list-1 {
@@ -80,14 +80,14 @@
 
 .u-section-1 .u-custom-html-1 {
   height: auto;
-  min-height: 211px;
-  margin: 50px 50px 0 0;
+  min-height: 212px;
+  margin: 232px 50px 0 0;
 }
 
 .u-section-1 .u-custom-html-2 {
   height: auto;
   min-height: 207px;
-  margin: 69px 37px 60px 0;
+  margin: 71px 40px 60px -2px;
 }
 
 @media (max-width: 1199px) {
@@ -143,6 +143,7 @@
 
   .u-section-1 .u-custom-html-2 {
     width: 721px;
+    margin-left: 0;
     margin-right: 0;
   }
 }
