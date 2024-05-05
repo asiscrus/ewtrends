@@ -2,12 +2,19 @@
   min-height: 1692px;
 }
 
-.u-section-1 .u-text-1 {
-  margin: 23px 0 0;
+.u-section-1 .u-image-1 {
+  width: 150px;
+  height: 99px;
+  margin: 16px 56px 0 auto;
 }
 
-.u-section-1 .u-image-1 {
-  width: 224px;
-  height: 147px;
-  margin: -1600px 0 60px auto;
+.u-section-1 .u-text-1 {
+  margin: -99px 71px 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-text-1 {
+    margin-left: 0;
+    margin-right: 0;
+  }
 }
