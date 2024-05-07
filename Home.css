@@ -82,13 +82,13 @@
   height: auto;
   min-height: 807px;
   width: 903px;
-  margin: -9px auto 0;
+  margin: 0 auto;
 }
 
 .u-section-1 .u-custom-html-2 {
   height: auto;
   min-height: 212px;
-  margin-top: 13px;
+  margin-top: 4px;
   margin-bottom: 0;
 }
 
@@ -147,15 +147,6 @@
 
   .u-section-1 .u-custom-html-1 {
     width: 721px;
-    margin-top: 27px;
-  }
-
-  .u-section-1 .u-custom-html-2 {
-    margin-top: 356px;
-  }
-
-  .u-section-1 .u-custom-html-3 {
-    margin-top: -388px;
   }
 }
 
@@ -172,10 +163,6 @@
 
   .u-section-1 .u-custom-html-1 {
     width: 541px;
-  }
-
-  .u-section-1 .u-custom-html-3 {
-    margin-bottom: -52px;
   }
 }
 
