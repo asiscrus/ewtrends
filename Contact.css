@@ -4,32 +4,21 @@
 
 .u-section-1 .u-text-1 {
   font-size: 1.875rem;
-  margin: 34px 53px 0 0;
-}
-
-.u-section-1 .u-text-2 {
-  font-size: 0.875rem;
-  margin: 25px 171px 0 34px;
+  width: 470px;
+  margin: 38px auto 0;
 }
 
 .u-section-1 .u-image-1 {
   width: 156px;
   height: 64px;
-  margin: 9px auto 60px 303px;
-}
-
-@media (max-width: 1199px) {
-  .u-section-1 .u-text-1 {
-    margin-right: 0;
-  }
-
-  .u-section-1 .u-text-2 {
-    margin-right: 0;
-    margin-left: 0;
-  }
+  margin: 442px auto 60px 303px;
 }
 
 @media (max-width: 575px) {
+  .u-section-1 .u-text-1 {
+    width: 340px;
+  }
+
   .u-section-1 .u-image-1 {
     margin-left: 184px;
   }
