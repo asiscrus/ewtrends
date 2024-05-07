@@ -78,28 +78,37 @@
   margin: 13px 0 0 20px;
 }
 
+.u-section-1 .u-image-1 {
+  height: 115px;
+  width: 900px;
+  margin: -18px 13px 0 auto;
+}
+
 .u-section-1 .u-custom-html-1 {
   height: auto;
   min-height: 807px;
   width: 903px;
-  margin: -19px auto 0;
+  margin: 13px auto 0;
 }
 
 .u-section-1 .u-custom-html-2 {
   height: auto;
   min-height: 212px;
-  margin-top: -15px;
-  margin-bottom: 0;
+  margin: 35px 13px 0 28px;
 }
 
 .u-section-1 .u-custom-html-3 {
   height: auto;
   min-height: 207px;
-  margin-top: 13px;
-  margin-bottom: 60px;
+  width: 900px;
+  margin: 13px auto 60px;
 }
 
 @media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1758px;
+  }
+
   .u-section-1 .u-list-1 {
     width: 721px;
     margin-right: 0;
@@ -146,12 +155,31 @@
     margin-left: 0;
   }
 
+  .u-section-1 .u-image-1 {
+    height: 92px;
+    width: 721px;
+    margin-right: 0;
+  }
+
   .u-section-1 .u-custom-html-1 {
+    width: 721px;
+  }
+
+  .u-section-1 .u-custom-html-2 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-custom-html-3 {
     width: 721px;
   }
 }
 
 @media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1735px;
+  }
+
   .u-section-1 .u-list-1 {
     width: 541px;
   }
@@ -162,7 +190,16 @@
     min-height: 612px;
   }
 
+  .u-section-1 .u-image-1 {
+    height: 69px;
+    width: 541px;
+  }
+
   .u-section-1 .u-custom-html-1 {
+    width: 541px;
+  }
+
+  .u-section-1 .u-custom-html-3 {
     width: 541px;
   }
 }
@@ -177,12 +214,24 @@
     grid-template-columns: 100%;
   }
 
+  .u-section-1 .u-image-1 {
+    width: 540px;
+  }
+
   .u-section-1 .u-custom-html-1 {
+    width: 540px;
+  }
+
+  .u-section-1 .u-custom-html-3 {
     width: 540px;
   }
 }
 
 @media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1709px;
+  }
+
   .u-section-1 .u-list-1 {
     width: 340px;
   }
@@ -191,7 +240,16 @@
     grid-auto-columns: 100%;
   }
 
+  .u-section-1 .u-image-1 {
+    height: 43px;
+    width: 340px;
+  }
+
   .u-section-1 .u-custom-html-1 {
+    width: 340px;
+  }
+
+  .u-section-1 .u-custom-html-3 {
     width: 340px;
   }
 }
