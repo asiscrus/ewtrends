@@ -4,7 +4,7 @@
 
 .u-section-1 .u-list-1 {
   width: 867px;
-  margin: 0 auto;
+  margin: 30px 31px 0 auto;
 }
 
 .u-section-1 .u-repeater-1 {
@@ -82,7 +82,7 @@
   height: auto;
   min-height: 807px;
   width: 903px;
-  margin: 0 auto;
+  margin: -30px auto 0;
 }
 
 .u-section-1 .u-custom-html-2 {
@@ -102,6 +102,7 @@
 @media (max-width: 1199px) {
   .u-section-1 .u-list-1 {
     width: 721px;
+    margin-right: 0;
   }
 
   .u-section-1 .u-repeater-1 {
