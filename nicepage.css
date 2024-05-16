@@ -42641,14 +42641,14 @@ a.u-link.u-text-hover-grey-90:hover {
 
 .u-header .u-text-2 {
   font-size: 0.875rem;
-  margin: 41px 571px 0 56px;
+  margin: 50px 571px 0 56px;
 }
 
 .u-header .u-text-3 {
   background-image: none;
   font-size: 1.5rem;
   text-decoration: underline !important;
-  margin: 0 0 34px;
+  margin: -9px 0 34px;
 }
 @media (max-width: 1199px) {
   .u-header .u-text-1 {
@@ -42683,6 +42683,10 @@ a.u-link.u-text-hover-grey-90:hover {
   .u-header .u-text-2 {
     margin-right: 407px;
     margin-left: 0;
+  }
+
+  .u-header .u-text-3 {
+    margin-top: -9px;
   }
 }
 @media (max-width: 991px) {
